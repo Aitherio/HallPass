@@ -1,0 +1,55 @@
+[
+    {
+        "building" : "SW01",
+        "floor" : [
+            [
+                {
+                    "location" : "S",
+                    "number" : 2
+                },
+                {
+                    "location" : "W",
+                    "number" : 4
+                }
+            ],
+            [
+                {
+                    "location" : "N",
+                    "number" : 3
+                }
+            ],
+            [
+
+            ]
+        ]
+        
+    },
+    {
+        "building" : "SW03",
+        "floor" : [
+            [
+                {
+                    "location" : "N",
+                    "number" : 2
+                }
+            ],
+            [
+                {
+                    "location" : "E",
+                    "number" : 4
+                } 
+            ],
+            [
+
+            ]
+                     
+        ]
+    },
+
+    {
+        "building" : "SW05",
+        "floor" : [
+
+        ]
+    }
+]

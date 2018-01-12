@@ -1,0 +1,77 @@
+[
+    {
+        "building" : "SW01",
+        "floor" : [
+            [
+                {
+                    "location" : "W",
+                    "number" : 6
+                },
+                {
+                    "location" : "C",
+                    "number" : 4
+                }
+            ],
+            [
+                {
+                    "location" : "N",
+                    "number" : 6
+                }
+            ],
+            [
+
+            ]
+        ]
+    },
+
+    {
+        "building" : "SW03",
+        "floor" : [
+            [
+                {
+                    "location" : "N",
+                    "number" : 4
+                },
+                {
+                    "location" : "E",
+                    "number" : 6
+                }
+            ],
+            [
+                {
+                    "location" : "S",
+                    "number" : 4
+                }
+            ],
+            [
+                {
+                    "location" : "N",
+                    "number" : 2
+                }  
+            ]
+                     
+        ]
+    },
+
+    {
+        "building" : "SW05",
+        "floor" : [
+            [
+                {
+                    "location" : "S",
+                    "number" : 10
+                },
+                {
+                    "location" : "N",
+                    "number" : 5
+                }
+            ],
+            [
+                {
+                    "location" : "E",
+                    "number" : 2
+                }
+            ]
+        ]
+    }
+]
