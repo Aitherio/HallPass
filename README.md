@@ -13,7 +13,11 @@ Teams of 5 were encouraged to practice agile software development and teamwork i
 The demonstration only contains 3 buildings' resources. To have the detailed information (which would eventually be expanded to all resources and buildings in a complete project), the SW01 North washroom information has been provided: "SW01_North_Washroom_Detailed.png"
 
 Team members:
+
 https://github.com/michael-andersen
+
 https://github.com/thisliangwu
+
 https://github.com/jqhoang
+
 https://github.com/Jeffery-Wasty
