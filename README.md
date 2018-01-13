@@ -1,6 +1,6 @@
 # HallPass
 
--- See "BCIT_Hackathon_HallPass.jpg" for our team picture! --
+<img src="/images/BCIT_Hackathon_HallPass.jpg">
 
 Winning third place at the CST Co-op Hackathon in January 2018, HallPass is an enhanced map/web-based app that originated from the problem of "What does a BCIT student need."
 
@@ -12,6 +12,7 @@ Teams of 5 were encouraged to practice agile software development and teamwork i
 
 The demonstration only contains 3 buildings' resources. To have the detailed information (which would eventually be expanded to all resources and buildings in a complete project), the SW01 North washroom information has been provided: "SW01_North_Washroom_Detailed.png"
 
+---
 Team members:
 
 https://github.com/michael-andersen
